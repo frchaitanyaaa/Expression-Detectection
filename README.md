@@ -5,6 +5,11 @@ This project demonstrates real-time facial expression detection using the MediaP
 This project demonstrates **real-time facial expression detection** using the **MediaPipe Face Landmarker** solution in Python. It leverages **machine learning-based face landmark detection** and **blendshape analysis** to infer human expressions directly from webcam video streams.
 
 ---
+Sample Output :
+![Screenshot 2025-06-30 162020](https://github.com/user-attachments/assets/e6ed345c-9f1d-4740-99ef-7035c35eac04)
+
+![Screenshot 2025-06-30 161940](https://github.com/user-attachments/assets/82c9161d-a920-4fb6-bcf6-abefda136cee)
+
 
 ## 🎯 Features
 
